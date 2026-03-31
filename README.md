@@ -30,6 +30,9 @@ I specialize in:
 - AI system architecture
 - LLM system design
 - Retrieval-Augmented Generation (RAG)
+- AI-powered SaaS projects
+- AI agent development
+- AI multi agent systems
 - Streaming AI interfaces
 - AI-powered learning tools
 - Cost and latency optimization
