@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### Senior AI Engineer | Production-AI-Systems
+## Senior Software Engineer
 
 </div>
 
@@ -23,34 +23,25 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
-I design and build production-ready AI systems powered by Large Language Models, with a strong focus on AI automation.
-My expertise goes beyond calling APIs — I architect intelligent, scalable, and reliable systems that automate real-world workflows.
+I am a Senior Software Engineer with deep expertise across **full-stack development, AI technologies, and product design**. Over the years, I have successfully delivered solutions in **web, mobile, desktop, and game development**, as well as cutting-edge **AI products and automation systems**. My experience spans the entire software lifecycle—from design and architecture to implementation and optimization.
 
-I specialize in:
-- AI system architecture
-- LLM system design
-- AI automation pipelines
-- Retrieval-Augmented Generation (RAG)
-- AI-powered SaaS projects
-- AI agent development
-- AI multi agent systems
-- Streaming AI interfaces
-- AI-powered learning tools
-- Cost and latency optimization
+I thrive on solving complex technical challenges and transforming ideas into high-quality, scalable, and user-friendly products.
 
-I'm passionate about creating AI solutions that solve real-world problems while maintaining high standards of quality and performance.
+🔹 What I Do
+- Full-stack web and mobile application development
+- AI-powered products, automation, and machine learning solutions
+- Game development and interactive experiences
+- System architecture, cloud solutions, and scalable backend systems
+- UI/UX and product design for digital experiences
+- Mentoring and leading development teams
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Rocket" width="35" height="35" /> Let's Collaborate
 
-I'm actively seeking collaboration opportunities on:
-- AI system architecture projects
-- AI automation projects and workflow optimization
-- RAG-based AI applications
-- AI-powered education platforms
-- LLM-driven SaaS tools
-- Projects involving JavaScript, React, or Python
+🔹 My Approach
+I combine **technical excellence, creativity, and AI innovation** to deliver solutions that are reliable, scalable, and future-ready. Whether it’s building web platforms, mobile apps, AI-driven products, or immersive games, I aim to exceed expectations while keeping maintainability and performance at the core.
 
-**Open to discussing your ideas!**
+📫 Let's Connect
+I’m open to **collaboration, mentoring, freelance projects, or full-time opportunities** where I can contribute to ambitious and innovative technology projects.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Rocket" width="35" height="35" /> Tech Stack
 
