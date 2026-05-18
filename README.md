@@ -57,7 +57,7 @@ Whether it's **AI products, full-stack applications, geospatial systems, automat
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Rocket" width="35" height="35" /> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,django,mongodb,mysql,postgres,redis,aws,gcp,azure,git,docker,kubernetes,nginx,postman,figma,ai,ps,pr,ae,blender,unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,vue,nodejs,express,python,flask,fastapi,flutter,java,jquery,laravel,sass,php,tailwind,django,dotnet,mongodb,mysql,postgres,supabase,redis,aws,gcp,azure,git,docker,kubernetes,nginx,postman,figma,wordpress,ai,sklearn,bots,selenium,ps,pr,ae,blender,unity,threejs,unreal,powershell,ubuntu,vscode" />
 </p>
 
 <!--
