@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sherwin%20Casem&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20%26amp%3B%20AI%20Engineer%20%E2%80%A2%2012+%20Years%20of%20Building%20Scalable%20Digital%20Products" width="100%" />
 </div>
 
-<div align="center">
-  
-## Senior Software & AI Engineer | 12+ Years of Building Scalable Digital Products
-
-</div>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
 I’m a passionate **Senior Software Engineer with 12+ years of experience** building high-quality digital products across **web, mobile, AI, mapping systems, automation, and interactive applications**.
