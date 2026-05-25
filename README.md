@@ -1,7 +1,6 @@
+
 <div align="center">
-
-# Sherwin Casem
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sherwin%20Casem&fontAlign=50" width="100%" />
 </div>
 
 <div align="center">
