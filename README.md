@@ -1,7 +1,9 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sherwin%20Casem&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20%26amp%3B%20AI%20Engineer%20%E2%80%A2%2012+%20Years%20of%20Building%20Scalable%20Digital%20Products" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sherwin%20Casem&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20%26amp%3B%20AI%20Engineer%20%E2%80%A2%2012+%2B+%20Years%20of%20Building%20Scalable%20Digital%20Products" width="100%" />
 </div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Clean+and+maintainable+architecture;Pperformance+optimization+and+scalability;Product-oriented+engineering+and+UX+collaboration;Full+product+lifecycle+ownership;Building+reliable%2C+production-ready+software" alt="Typing SVG" /></a>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
@@ -41,6 +43,13 @@ Whether it's **AI products, full-stack applications, geospatial systems, automat
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,vue,nodejs,express,python,flask,fastapi,flutter,java,jquery,laravel,sass,php,tailwind,django,dotnet,mongodb,mysql,postgres,supabase,redis,aws,gcp,azure,git,docker,kubernetes,nginx,postman,figma,wordpress,ai,sklearn,bots,selenium,ps,pr,ae,blender,unity,threejs,unreal,powershell,ubuntu,vscode" />
 </p>
+
+<!-- Snake animation -->
+<img 
+  align="center" 
+  src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" 
+  alt="Snake animation" 
+/>
 
 <!--
 **sherwin-casem/sherwin-casem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
