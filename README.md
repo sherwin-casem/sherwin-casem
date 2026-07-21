@@ -114,15 +114,6 @@ Whether it's **AI products, full-stack applications, geospatial systems, automat
   </a>
 </p>
 
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sherwin-casem&theme=github_dark" alt="Repos per Language" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sherwin-casem&theme=github_dark" alt="Most Commit Language" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sherwin-casem&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%" />
-</p>
-
 ## 🏆 Random Dev Quote
 
 <p align="center">
