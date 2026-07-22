@@ -15,7 +15,7 @@
 - 🔬 Advisory solutions for **Scalable, production-ready products**
 - 💡 Currently exploring **Agentic AI**, **Multimodal LLMs** & **MCP Servers**
 - 👯 Open to collaborating on impactful **AI & Full Stack Open Source** projects
-- 📫 Reach me at: **[sherwincasem03@gmail.com]**
+- 📫 Reach me at: **[sherwincasem4@gmail.com]**
 - 💬 Ask me about **AI/ML, Data Science, Full Stack Engineering**
 - ⚡ Fun fact: Passionate about **sports, health & travelling**!
 
