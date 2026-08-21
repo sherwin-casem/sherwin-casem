@@ -14,7 +14,6 @@
 - 🔬 Advisory solutions for **Scalable, production-ready products**
 - 💡 Currently exploring **Agentic AI**, **Multimodal LLMs** & **MCP Servers**
 - 💬 Ask me about **AI/ML, Data Science, Full Stack Engineering**
-- ⚡ Fun fact: Passionate about **sports, health & travelling**!
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Rocket" width="35" height="35" /> Let’s Build Something Great
 
