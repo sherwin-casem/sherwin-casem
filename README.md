@@ -9,21 +9,12 @@
 
 > *"I enjoy solving complex technical challenges and turning ambitious ideas into elegant, user-friendly solutions."*
 
-- 🤖 **Senior Software & AI Engineer**
 - 🎓 **12+ years of experience** building high-quality digital products
 - 🧠 Expertise in **web, mobile, AI/ML, automation, and interactive applications**
 - 🔬 Advisory solutions for **Scalable, production-ready products**
 - 💡 Currently exploring **Agentic AI**, **Multimodal LLMs** & **MCP Servers**
-- 👯 Open to collaborating on impactful **AI & Full Stack Open Source** projects
-- 📫 Reach me at: **[sherwincasem4@gmail.com]**
 - 💬 Ask me about **AI/ML, Data Science, Full Stack Engineering**
 - ⚡ Fun fact: Passionate about **sports, health & travelling**!
-
-💡 **Engineering Philosophy**
-
-I believe great software is more than just code - it’s about **solving real problems, creating meaningful user experiences, and building systems that scale**.
-My approach combines **technical excellence, clean architecture, performance optimization, and strong product thinking** to deliver solutions that are reliable, maintainable, and future-ready.
-I’m comfortable taking ownership across the entire product lifecycle — from **planning and architecture to deployment and optimization**
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Rocket" width="35" height="35" /> Let’s Build Something Great
 
@@ -119,13 +110,6 @@ Whether it's **AI products, full-stack applications, geospatial systems, automat
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
 
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
