@@ -12,8 +12,7 @@
 - 🎓 **12+ years of experience** building high-quality digital products
 - 🧠 Expertise in **web, mobile, AI/ML, automation, and interactive applications**
 - 🔬 Advisory solutions for **Scalable, production-ready products**
-- 💡 Currently exploring **Agentic AI**, **Multimodal LLMs** & **MCP Servers**
-- 💬 Ask me about **AI/ML, Data Science, Full Stack Engineering**
+- 💡 Currently building **Agentic AI**, **Multimodal LLMs** & **MCP Servers**
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Rocket" width="35" height="35" /> Let’s Build Something Great
 
