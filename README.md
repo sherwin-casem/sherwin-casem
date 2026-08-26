@@ -89,20 +89,6 @@ Whether it's **AI products, full-stack applications, geospatial systems, automat
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
      </p>
 
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="28"> Certifications
-
-<p align="center">
-  <a href="https://media.licdn.com/dms/image/v2/D4E22AQGS3b_JxENCdA/feedshare-shrink_1280/B4EZcXO1ONHQAw-/0/1748441454632" target="_blank">
-    <img src="https://img.shields.io/badge/NVIDIA-GSI_Curriculum_2025-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
-  </a>&#160;
-  <a href="https://www.credly.com/badges/229f65cc-5ed4-44eb-96fe-ee47016f32b8" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-Generative_AI_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  </a>&#160;
-  <a href="https://www.credly.com/badges/e230a1d7-8eb9-446b-8166-9e8fcee0e963/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Quantum_Computing_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  </a>
-</p>
-
 ## 🏆 Random Dev Quote
 
 <p align="center">
