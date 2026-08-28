@@ -10,7 +10,7 @@
 > *"I enjoy solving complex technical challenges and turning ambitious ideas into elegant, user-friendly solutions."*
 
 - 🎓 **12+ years of experience** building high-quality digital products
-- 🧠 Expertise in **AI/ML, automation, web, mobile, and interactive applications**
+- 🧠 Expertise in **AI/ML, Data engineering, automation, web, mobile, and interactive applications**
 - 🔬 Advisory solutions for **Scalable, production-ready products**
 - 💡 Currently building **Agentic AI**, **Multimodal LLMs** & **MCP Servers**
 
