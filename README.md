@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sherwin%20Casem&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=12+%2B+%20Years%20of%20Building%20Scalable%20Digital%20Products" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sherwin%20Casem&fontAlign=50&animation=fadeIn&fontAlignY=35&
+  desc=12+%20Years%20of%20Building%20Scalable%20Digital%20Products" width="100%" />
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=18F7ED&center=true&width=1000&lines=Clean+and+maintainable+architecture;Performance+optimization+and+scalability;Product-oriented+engineering+and+UX+collaboration;Full+product+lifecycle+ownership;Building+reliable%2C+production-ready+software" alt="Typing SVG" />
